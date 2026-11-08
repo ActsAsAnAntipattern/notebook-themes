@@ -22,6 +22,8 @@ Your own preferences always win over a theme. Every setting has "Reset to theme 
 
 ## Theme format
 
+The full key-by-key reference is in [docs/theme-api.md](docs/theme-api.md). In short:
+
 A theme is data only, never code. It may not reference URLs or remote resources, and fonts must be ones already installed or bundled with the app.
 
 ```toml
