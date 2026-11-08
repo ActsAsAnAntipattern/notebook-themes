@@ -1,0 +1,44 @@
+base = "dark"                  # light or dark: built-in values for anything not set here
+
+[meta]
+id = "night"
+name = "Night"
+version = "1.0.0"
+description = "Near-black with warm amber accents."
+author = "Notebook"
+licence = "MIT"
+min-app-version = "0.1.0"
+
+[colours]
+background = "#121212"
+panel = "#1a1a1a"
+text = "#d6d3ce"
+muted = "#7d7a75"
+border = "#2a2a2a"
+heading = "#ece9e4"
+accent = "#c49a6c"
+link = "#d2a879"
+link-missing = "#c98f6b"
+tag = "#b9a1e0"
+tag-background = "#2a2333"
+quote = "#a8a49e"
+
+[shadow]
+preset = "strong"
+
+[calendar.level.1]
+marker-colour = "#b9a1e0"
+
+[calendar.level.2]
+marker-colour = "#b9a1e0"
+
+[calendar.level.3]
+marker-colour = "#b9a1e0"
+
+[calendar.selected]
+cell-background = "#c49a6c"
+cell-text = "#121212"
+marker-colour = "#121212"
+
+[calendar.today]
+cell-border = "1px solid #c49a6c"

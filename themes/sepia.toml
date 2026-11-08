@@ -1,0 +1,44 @@
+base = "light"                  # light or dark: built-in values for anything not set here
+
+[meta]
+id = "sepia"
+name = "Sepia"
+version = "1.0.0"
+description = "Aged paper tones for long reading."
+author = "Notebook"
+licence = "MIT"
+min-app-version = "0.1.0"
+
+[colours]
+background = "#f6efe2"
+panel = "#ece2cf"
+text = "#3b3024"
+muted = "#8f7f69"
+border = "#dccdb3"
+heading = "#2e251b"
+accent = "#a0622d"
+link = "#9a5a24"
+link-missing = "#a37b2c"
+tag = "#7a5a2e"
+tag-background = "#e9dcc2"
+quote = "#6b5a45"
+
+[shadow]
+preset = "medium"
+
+[calendar.level.1]
+marker-colour = "#7a5a2e"
+
+[calendar.level.2]
+marker-colour = "#7a5a2e"
+
+[calendar.level.3]
+marker-colour = "#7a5a2e"
+
+[calendar.selected]
+cell-background = "#a0622d"
+cell-text = "#f6efe2"
+marker-colour = "#f6efe2"
+
+[calendar.today]
+cell-border = "1px solid #a0622d"

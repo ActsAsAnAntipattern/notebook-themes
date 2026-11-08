@@ -1,0 +1,44 @@
+base = "light"                  # light or dark: built-in values for anything not set here
+
+[meta]
+id = "paper"
+name = "Paper"
+version = "1.0.0"
+description = "A warm off-white page with ink-blue links."
+author = "Notebook"
+licence = "MIT"
+min-app-version = "0.1.0"
+
+[colours]
+background = "#fbfaf8"
+panel = "#f2f0ec"
+text = "#24221f"
+muted = "#8a857d"
+border = "#e2ded7"
+heading = "#1d1b18"
+accent = "#3b6ea8"
+link = "#3b6ea8"
+link-missing = "#9a6a2f"
+tag = "#6b4fa0"
+tag-background = "#efe9f8"
+quote = "#5f5a52"
+
+[shadow]
+preset = "medium"
+
+[calendar.level.1]
+marker-colour = "#6b4fa0"
+
+[calendar.level.2]
+marker-colour = "#6b4fa0"
+
+[calendar.level.3]
+marker-colour = "#6b4fa0"
+
+[calendar.selected]
+cell-background = "#3b6ea8"
+cell-text = "#fbfaf8"
+marker-colour = "#fbfaf8"
+
+[calendar.today]
+cell-border = "1px solid #3b6ea8"

@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "themes": [
+    {
+      "id": "night",
+      "name": "Night",
+      "version": "1.0.0",
+      "description": "Near-black with warm amber accents.",
+      "author": "Notebook",
+      "licence": "MIT",
+      "min-app-version": "0.1.0",
+      "base": "dark",
+      "file": "themes/night.toml",
+      "sha256": "0a0c56abdc8679ffdd609426d55770054fa73b51e6303cf26654b8fe61d64624"
+    },
+    {
+      "id": "paper",
+      "name": "Paper",
+      "version": "1.0.0",
+      "description": "A warm off-white page with ink-blue links.",
+      "author": "Notebook",
+      "licence": "MIT",
+      "min-app-version": "0.1.0",
+      "base": "light",
+      "file": "themes/paper.toml",
+      "sha256": "4d6116ecdb2ed7248fd40344eb5d3ade1de8507d6bcb614e9a0abd65392a8784"
+    },
+    {
+      "id": "sepia",
+      "name": "Sepia",
+      "version": "1.0.0",
+      "description": "Aged paper tones for long reading.",
+      "author": "Notebook",
+      "licence": "MIT",
+      "min-app-version": "0.1.0",
+      "base": "light",
+      "file": "themes/sepia.toml",
+      "sha256": "8396b03f5f4780d158a79557b96afd4d3c6cc432276b39d371520c686f7c194e"
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "version": "1.0.0",
+      "description": "Cool blue-grey for evening work.",
+      "author": "Notebook",
+      "licence": "MIT",
+      "min-app-version": "0.1.0",
+      "base": "dark",
+      "file": "themes/slate.toml",
+      "sha256": "61e47443ba21b311a00e7e63d57b7650594cf69273bbebfb36d3edee18604278"
+    }
+  ]
+}

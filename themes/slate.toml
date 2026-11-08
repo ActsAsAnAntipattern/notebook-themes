@@ -1,0 +1,44 @@
+base = "dark"                  # light or dark: built-in values for anything not set here
+
+[meta]
+id = "slate"
+name = "Slate"
+version = "1.0.0"
+description = "Cool blue-grey for evening work."
+author = "Notebook"
+licence = "MIT"
+min-app-version = "0.1.0"
+
+[colours]
+background = "#24292f"
+panel = "#2c3238"
+text = "#dde3e9"
+muted = "#8b96a1"
+border = "#3a424b"
+heading = "#f1f4f7"
+accent = "#6cb0d8"
+link = "#7fbde3"
+link-missing = "#d8b26c"
+tag = "#9fd3b8"
+tag-background = "#2f4038"
+quote = "#b2bcc6"
+
+[shadow]
+preset = "strong"
+
+[calendar.level.1]
+marker-colour = "#9fd3b8"
+
+[calendar.level.2]
+marker-colour = "#9fd3b8"
+
+[calendar.level.3]
+marker-colour = "#9fd3b8"
+
+[calendar.selected]
+cell-background = "#6cb0d8"
+cell-text = "#24292f"
+marker-colour = "#24292f"
+
+[calendar.today]
+cell-border = "1px solid #6cb0d8"
